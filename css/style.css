@@ -9,8 +9,11 @@
 
 body{
     text-align: center;
-    background-image: linear-gradient(to bottom, #6ab7f5, #ffff);
-    min-height: 100vh;;
+    background-image: url(../img/574726.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
 }
 
 main{
